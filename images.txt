@@ -1,4 +1,5 @@
 #支持私库
 vulhub/geoserver:2.23.2
+
 #支持指定架构
 --platform=linux/arm64 vulhub/geoserver
